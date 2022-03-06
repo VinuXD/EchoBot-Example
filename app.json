@@ -1,9 +1,19 @@
 {
   "name": "EchoBot-Example",
-  "description": "Example spring boot telegram bot",
-  "repository": "https://github.com/VinuXD/EchoBot-Example",
+  "description": "Example Spring boot java telegram bot which echos the received text",
+  "repository": "https://github.com/vinuxd/EchoBot-Example",
   "website": "https://vinuxd.github.io",
   "success_url": "https://t.me/VINUsChat",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Get one from @Botfather",
+      "required": "True"
+    },
+    "BOT_USERNAME": {
+      "description": "Username without @",
+      "required": "True"
+    }
+  },
   "stack": "heroku-20",
   "buildpacks": [
     {
