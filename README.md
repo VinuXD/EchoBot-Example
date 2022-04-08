@@ -1,6 +1,8 @@
+[![banner](https://raw.githubusercontent.com/VinuXD/Portfolio-assets/master/Blog/JavaBot.png)](https://dev.to/vinuxd/from-building-a-java-telegram-bot-to-deployment-4kc9)
+
 ## What is this?
 
-- [Read on dev.to](https://dev.to/vinuxd/from-building-a-java-telegram-bot-to-deployment-4kc9)
+- [Read on Dev.to](https://dev.to/vinuxd/from-building-a-java-telegram-bot-to-deployment-4kc9)
 
 ## Deploy
 
@@ -8,10 +10,4 @@
 
 ---
 
-I haven't added any licenses here So you are free to **use this source code anywhere** on your project. Also if you mind contributing, Just add this text with a hyperlink to this repository in credits section :)
-
-```md
-[VINU](https://github.com/VinuXD/EchoBot-Example)
-```
-
-> This project needs a :star: from you
+#### [LICENSE - GPL v3](https://github.com/VinuXD/EchoBot-Example/blob/0b07d245c676b3e7fc907462f4843118dd9876b5/LICENSE)
